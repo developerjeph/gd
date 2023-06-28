@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(252, 254, 255);
+    background-color: rgb(255, 255, 255);
     margin: 0;
     padding: 0;
    }
@@ -93,7 +93,7 @@ padding-top: 50px;
     .img-left{
         margin-left: 20px;
         float: left;
-        width: 65%;
+        width: 60%;
         border: 2px solid rgb(245, 245, 245);
              
     }
@@ -102,8 +102,9 @@ padding-top: 50px;
         display: flex;
         flex-wrap: wrap;
         float: right;
-        width:32%;
+        width:35%;
         height:700px;
+        margin-right: 20px;
         border: 2px solid rgb(255, 255, 255);
     }
     .img-right1{
