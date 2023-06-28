@@ -94,6 +94,7 @@ padding-top: 50px;
         margin-left: 20px;
         float: left;
         width: 60%;
+        height: 750px;
         border: 2px solid rgb(245, 245, 245);
              
     }
@@ -108,7 +109,7 @@ padding-top: 50px;
         border: 2px solid rgb(255, 255, 255);
     }
     .img-right1{
-        height:362px;
+        height:375px;
         width:100%;
          border: 2px solid rgb(255, 255, 255);        
         margin-bottom:20px;
