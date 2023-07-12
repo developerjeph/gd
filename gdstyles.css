@@ -253,8 +253,9 @@ transition: .5s ease;
    }
 .lgimage{
     padding-right: 300px;
-    width: 100%;
+    width: 61%;
     float: left;
+    margin-bottom: 100px;   
   }
   .lgimages{
     width: 70%;
@@ -266,7 +267,7 @@ transition: .5s ease;
     margin-top: 90px;
     float: left;
     height:400px;
-    width: 50%;
+    width: 42%;
     background-color: rgb(217, 218, 219);
 }
 .lgtexts{
@@ -275,7 +276,7 @@ transition: .5s ease;
     margin-top: 90px;
     float: left;
     height:400px;
-    width: 50%;
+    width:50%;
     background-color: rgb(217, 218, 219);
 }
     
